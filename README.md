@@ -46,6 +46,8 @@ Open the index.html file in your browser.
 ### 3️⃣ Deploy to AWS S3
 Coming soon: Detailed instructions for hosting the website on AWS S3.
 
+---
+
 ## 🛠️ Tools & Technologies
 Front-End
 - **HTML5, CSS3, JavaScript**
@@ -57,6 +59,8 @@ Version Control
 Editor
 - **Visual Studio Code**
 
+---
+
 ## 🎯 Future Enhancements
 Dynamic Backend:
 - **Integrate AWS Lambda, API Gateway, and DynamoDB for real-time superhero data fetching.**
@@ -67,20 +71,27 @@ User Interactions:
 Automation:
 - **Create a CI/CD pipeline using GitHub Actions to streamline updates.**
 
+---
+
 ## 📸 Visuals
 Homepage Preview
 📌 Visuals coming soon!
 
 Screenshots showcasing the gallery’s design and functionality will be added soon.
 
+---
 ## 📚 Documentation
 For a detailed guide, architecture overview, and future development plans, check out the Full Documentation (coming soon).
+
+---
 
 ## 🏆 Project Highlights
 This project is part of my cloud computing learning journey, showcasing my skills in:
 - **🌐 Cloud Deployment: Hosting static websites on AWS S3.**
 - **💻 Version Control: Managing and tracking changes with Git & GitHub.**
 - **🎨 Responsive Front-End Development: Using modern HTML5 and CSS3 techniques.**
+
+---
 
 ## 🔗 Connect with Me
 - **LinkedIn: www.linkedin.com/in/reashin-pillay**
