@@ -35,60 +35,53 @@ To clone the repository and navigate to the project directory:
 ```bash
 git clone https://github.com/Reez0ree/serverless-superhero-gallery.git
 cd serverless-superhero-gallery
-2️⃣ Deploy Locally
+```
+### 2️⃣ Deploy Locally
 To view the superhero gallery locally:
 
 Open the project folder on your computer.
 
 Open the index.html file in your browser.
 
-3️⃣ Deploy to AWS S3
+### 3️⃣ Deploy to AWS S3
 Coming soon: Detailed instructions for hosting the website on AWS S3.
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 Front-End
-HTML5, CSS3, JavaScript
-
-Customized Multiverse template by HTML5 UP
-
+- **HTML5, CSS3, JavaScript**
+- **Customized Multiverse template by HTML5 UP**
 Cloud Hosting
-AWS S3 for static website hosting
-
+- **AWS S3 for static website hosting**
 Version Control
-Git & GitHub
-
+- **Git & GitHub**
 Editor
-Visual Studio Code
+- **Visual Studio Code**
 
-🎯 Future Enhancements
+## 🎯 Future Enhancements
 Dynamic Backend:
-Integrate AWS Lambda, API Gateway, and DynamoDB for real-time superhero data fetching.
+- **Integrate AWS Lambda, API Gateway, and DynamoDB for real-time superhero data fetching.**
 
 User Interactions:
-Add features like search, filtering, and user-generated content.
+- **Add features like search, filtering, and user-generated content.**
 
 Automation:
-Create a CI/CD pipeline using GitHub Actions to streamline updates.
+- **Create a CI/CD pipeline using GitHub Actions to streamline updates.**
 
-📸 Visuals
+## 📸 Visuals
 Homepage Preview
 📌 Visuals coming soon!
 
 Screenshots showcasing the gallery’s design and functionality will be added soon.
 
-📚 Documentation
+## 📚 Documentation
 For a detailed guide, architecture overview, and future development plans, check out the Full Documentation (coming soon).
 
-🏆 Project Highlights
+## 🏆 Project Highlights
 This project is part of my cloud computing learning journey, showcasing my skills in:
+- **🌐 Cloud Deployment: Hosting static websites on AWS S3.**
+- **💻 Version Control: Managing and tracking changes with Git & GitHub.**
+- **🎨 Responsive Front-End Development: Using modern HTML5 and CSS3 techniques.**
 
-🌐 Cloud Deployment: Hosting static websites on AWS S3.
-
-💻 Version Control: Managing and tracking changes with Git & GitHub.
-
-🎨 Responsive Front-End Development: Using modern HTML5 and CSS3 techniques.
-
-🔗 Connect with Me
-LinkedIn: www.linkedin.com/in/reashin-pillay
-
-GitHub: Reez0ree
+## 🔗 Connect with Me
+- **LinkedIn: www.linkedin.com/in/reashin-pillay**
+- **GitHub: Reez0ree**
