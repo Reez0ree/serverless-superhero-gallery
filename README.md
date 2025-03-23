@@ -87,9 +87,11 @@ For a detailed guide, architecture overview, and future development plans, check
 
 ## 🏆 Project Highlights
 This project is part of my cloud computing learning journey, showcasing my skills in:
-- **🌐 Cloud Deployment: Hosting static websites on AWS S3.**
-- **💻 Version Control: Managing and tracking changes with Git & GitHub.**
-- **🎨 Responsive Front-End Development: Using modern HTML5 and CSS3 techniques.**
+- 🌐 **Cloud Deployment:** Hosting static websites on AWS S3 for reliable and scalable performance.
+- 💻 **Version Control:** Managing and tracking changes with Git & GitHub to maintain a clean commit history.
+- 🎨 **Responsive Front-End Development:** Leveraging modern HTML5 and CSS3 techniques for a visually stunning, mobile-friendly design."https://html5up.net/multiverse"
+- 🛠️ **Tool Integration:** Using AWS CLI to streamline deployment and configuration processes.
+- 📂 **Documentation:** Providing detailed guides and markdown files to make the project easy to replicate and understand.
 
 ---
 
