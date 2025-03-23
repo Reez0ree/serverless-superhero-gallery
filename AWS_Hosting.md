@@ -12,7 +12,7 @@ Steps:
 - **Complete the process by clicking Create bucket.**
 
 Screenshot: S3_Bucket_Created
-- **"Created an S3 bucket using the AWS Management Console."**
+- **"Created an S3 bucket using the AWS Management Console."*
 
 ### 2️⃣ Uploading Files to S3 Bucket
 Steps:
@@ -21,7 +21,7 @@ Steps:
 - **Click Upload to add the files.**
 
 Screenshot: File_Upload
-- **"Uploaded all files to the S3 bucket manually."**
+- **"Uploaded all files to the S3 bucket manually."*
 
 ### 3️⃣ Enabling Static Website Hosting
 Steps:
@@ -32,7 +32,7 @@ Steps:
 - **Save the changes.**
 
 Screenshot: Static_Website_Hosting
-- **"Configured static website hosting via the AWS Console."**
+- **"Configured static website hosting via the AWS Console."*
 
 ### 4️⃣ Setting Permissions 
 Steps:
@@ -40,7 +40,7 @@ Steps:
 -**Under Bucket policy, edit "Block public access (bucket settings)" and enable public:**
 
 Screenshot: Permission_Access
-- **"Added a bucket policy to allow public access manually."**
+- **"Added a bucket policy to allow public access manually."*
 
 ---
 
