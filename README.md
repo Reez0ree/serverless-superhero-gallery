@@ -44,7 +44,7 @@ Open the project folder on your computer.
 Open the index.html file in your browser.
 
 ### 3️⃣ Deploy to AWS S3
-Coming soon: Detailed instructions for hosting the website on AWS S3.
+Find detailed instructions for hosting the website on AWS S3 in the AWS_Hosting.md file.
 
 ---
 
