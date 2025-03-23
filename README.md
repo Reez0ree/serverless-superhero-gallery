@@ -75,7 +75,7 @@ Automation:
 
 ## 📸 Visuals
 Homepage Preview
-📌 Visuals coming soon!
+![Loading Page](screenshots/Website.jpg "Loading Page")
 
 Screenshots showcasing the gallery’s design and functionality will be added soon.
 
